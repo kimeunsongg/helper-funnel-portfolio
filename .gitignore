@@ -1,0 +1,13 @@
+.venv/
+.DS_Store
+__pycache__/
+
+# 생성 데이터: scripts/generate_data.py로 다시 만들 수 있음
+data/
+
+# 개인 스터디용 파일
+STUDY.md
+RESULTS_SUMMARY.md
+answers/
+sql/session1/
+output/
